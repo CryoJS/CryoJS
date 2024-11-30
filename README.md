@@ -1,11 +1,10 @@
 # Welcome!
 
-I am a student with a deep passion for computer science.
-I also love math, reading, writing, and music.
+I am a student who greatly enjoys computer science: both the intricate theoretical and the innovative developmental.
 
 ## Currently
-- Making an app with Swift iOS
-- Creating an educational website
+- Making an app with SwiftUI iOS
+- Creating an educational website with ReactJS
 - Practicing problem-solving through competitive programming
 - Creating a guidebook of lessons to aid others in competitive programming
 
