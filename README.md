@@ -8,8 +8,6 @@ I am a student who greatly enjoys computer science: both the intricate theoretic
 
 ## Languages
 - Python
-- C++
-- C#
-- Java
+- C++, C#, Java
+- HTML, CSS, JS
 - Swift
-- HTML, CSS, (learning JS)
